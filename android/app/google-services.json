@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431353279412",
+    "firebase_url": "https://speed-chat-b1e80.firebaseio.com",
+    "project_id": "speed-chat-b1e80",
+    "storage_bucket": "speed-chat-b1e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431353279412:android:f00dc14f901d03f4d8b8e1",
+        "android_client_info": {
+          "package_name": "com.geopgeek.speedchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431353279412-97e0vp5t6ac9kl7avev6ja25uua74cdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJYRwjjDjhi3M8WXtikFCZ3_KVUorpnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431353279412-97e0vp5t6ac9kl7avev6ja25uua74cdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
